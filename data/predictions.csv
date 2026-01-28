@@ -1,0 +1,11 @@
+age,days_since_last_login,avg_time_spent,avg_transaction_value,avg_login_frequency_days,points_in_wallet,customer_tenure_days,gender,region_category,membership_category,joined_through_referral,preferred_offer_type,platform,internet_type,used_special_discount,offer_application_preference,past_complaint,feedback,last_visit_bucket,churn_probability,churn_risk_bucket
+24,60,12.5,300,28,5,45,F,City,No Membership,No,Without Offers,Mobile,Fiber_Optic,No,No,Yes,Too many ads,Night,0.805,High
+31,35,40.0,800,15,30,180,M,Town,Basic Membership,Yes,Cashback,Mobile,DSL,Yes,Yes,Yes,App crashes often,Evening,0.865,High
+45,2,320.0,15000,1,1500,1200,M,City,Premium Membership,Yes,Cashback,Desktop,Fiber_Optic,Yes,Yes,No,Great service,Morning,0.015,Low
+28,20,85.0,2200,7,120,300,F,City,Basic Membership,No,Discount,Mobile,4G,Yes,Yes,No,Good experience,Afternoon,0.87,High
+52,90,8.0,150,40,0,30,M,Rural,No Membership,No,Without Offers,Mobile,2G,No,No,Yes,Slow support,Night,0.79,High
+39,5,260.0,9000,3,980,800,F,City,Premium Membership,Yes,Cashback,Desktop,Fiber_Optic,Yes,Yes,No,Loving it,Evening,0.025,Low
+22,14,95.0,600,10,75,120,M,Town,Basic Membership,No,Discount,Mobile,4G,No,Yes,No,Okay experience,Afternoon,0.9,High
+47,75,15.0,450,30,10,60,F,City,No Membership,No,Without Offers,Mobile,DSL,No,No,Yes,Too expensive,Night,0.81,High
+34,3,210.0,7000,2,850,900,M,City,Premium Membership,Yes,Cashback,Desktop,Fiber_Optic,Yes,Yes,No,Very satisfied,Morning,0.005,Low
+29,25,70.0,1800,12,90,250,F,Town,Basic Membership,Yes,Discount,Mobile,4G,Yes,Yes,No,Decent service,Evening,0.86,High
